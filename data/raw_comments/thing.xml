@@ -1,0 +1,2468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="13">
+         <thumbnail>https://cf.geekdo-images.com/W3Bsga_uLP9kO91gZ7H8yw__thumb/img/8a9HeqFydO7Uun_le9bXWPnidcA=/fit-in/200x150/filters:strip_icc()/pic2419375.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/W3Bsga_uLP9kO91gZ7H8yw__original/img/xV7oisd3RQ8R-k18cdWAYthHXsA=/0x0/filters:format(jpeg)/pic2419375.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="CATAN"/>
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Catan"/>
+			    				
+				<name type="alternate" sortindex="1" value="Catan (Колонизаторы)"/>
+			    				
+				<name type="alternate" sortindex="1" value="Catan telepesei"/>
+			    				
+				<name type="alternate" sortindex="1" value="Catan: Das Spiel"/>
+			    				
+				<name type="alternate" sortindex="1" value="Catan: Die Bordspel"/>
+			    				
+				<name type="alternate" sortindex="1" value="Catan: El Juego"/>
+			    				
+				<name type="alternate" sortindex="1" value="Catan: Gra planszowa"/>
+			    				
+				<name type="alternate" sortindex="1" value="Catan: Il Gioco"/>
+			    				
+				<name type="alternate" sortindex="1" value="Catan: Landnemarnir"/>
+			    				
+				<name type="alternate" sortindex="1" value="Catan: O Jogo"/>
+			    				
+				<name type="alternate" sortindex="1" value="Catan: Osnovna igra"/>
+			    				
+				<name type="alternate" sortindex="1" value="Catan: Základní hra"/>
+			    				
+				<name type="alternate" sortindex="1" value="Catane"/>
+			    				
+				<name type="alternate" sortindex="1" value="Catanin Uudisasukkaat"/>
+			    				
+				<name type="alternate" sortindex="3" value="I Coloni di Catan"/>
+			    				
+				<name type="alternate" sortindex="3" value="I Coloni di Katan"/>
+			    				
+				<name type="alternate" sortindex="1" value="Coloniștii din Catan"/>
+			    				
+				<name type="alternate" sortindex="1" value="Colonizadores de Catan"/>
+			    				
+				<name type="alternate" sortindex="5" value="Los Colonos de Catán"/>
+			    				
+				<name type="alternate" sortindex="5" value="Les Colons de Catane"/>
+			    				
+				<name type="alternate" sortindex="5" value="Les Colons de Katane"/>
+			    				
+				<name type="alternate" sortindex="4" value="Os Descobridores de Catan"/>
+			    				
+				<name type="alternate" sortindex="5" value="Los Descubridores de Catán"/>
+			    				
+				<name type="alternate" sortindex="1" value="Els Colons de Catan"/>
+			    				
+				<name type="alternate" sortindex="1" value="Katan"/>
+			    				
+				<name type="alternate" sortindex="1" value="Katan no Kaitakusya"/>
+			    				
+				<name type="alternate" sortindex="1" value="Katanas ieceïotâji"/>
+			    				
+				<name type="alternate" sortindex="1" value="Katanas Ieceļotāji"/>
+			    				
+				<name type="alternate" sortindex="1" value="Katani Asustajad"/>
+			    				
+				<name type="alternate" sortindex="1" value="Katano salos naujakuriai"/>
+			    				
+				<name type="alternate" sortindex="1" value="Katano Salos Naujakuriai"/>
+			    				
+				<name type="alternate" sortindex="4" value="De Kolonisten van Catan"/>
+			    				
+				<name type="alternate" sortindex="1" value="Naseljenci otoka Catan"/>
+			    				
+				<name type="alternate" sortindex="1" value="Naseljenici ostrva Katan"/>
+			    				
+				<name type="alternate" sortindex="1" value="Naseljenici ostrva Katan / Насељеници острва Катан"/>
+			    				
+				<name type="alternate" sortindex="1" value="Naseljenici Otoka Catan"/>
+			    				
+				<name type="alternate" sortindex="5" value="Die Ontdekkers van Catan"/>
+			    				
+				<name type="alternate" sortindex="1" value="Osadníci z Katanu"/>
+			    				
+				<name type="alternate" sortindex="1" value="Osadnicy z Catanu"/>
+			    				
+				<name type="alternate" sortindex="5" value="The Settlers"/>
+			    				
+				<name type="alternate" sortindex="1" value="Settlers fra Catan"/>
+			    				
+				<name type="alternate" sortindex="5" value="The Settlers fra Catan"/>
+			    				
+				<name type="alternate" sortindex="1" value="Settlers från Catan"/>
+			    				
+				<name type="alternate" sortindex="5" value="The Settlers från Catan"/>
+			    				
+				<name type="alternate" sortindex="5" value="The Settlers of Catan"/>
+			    				
+				<name type="alternate" sortindex="5" value="Die Siedler von Catan"/>
+			    				
+				<name type="alternate" sortindex="1" value="Οι Άποικοι του Κατάν"/>
+			    				
+				<name type="alternate" sortindex="1" value="Заселниците на Катан"/>
+			    				
+				<name type="alternate" sortindex="1" value="Катан"/>
+			    				
+				<name type="alternate" sortindex="1" value="Колонизаторы"/>
+			    				
+				<name type="alternate" sortindex="1" value="המתיישבים של קטאן"/>
+			    				
+				<name type="alternate" sortindex="1" value="นักบุกเบิกแห่ง Catan"/>
+			    				
+				<name type="alternate" sortindex="1" value="カタンの開拓者"/>
+			    				
+				<name type="alternate" sortindex="1" value="カタンの開拓者たち"/>
+			    				
+				<name type="alternate" sortindex="1" value="カタンの開拓者たち スタンダード版"/>
+			    				
+				<name type="alternate" sortindex="1" value="卡坦 : 基礎"/>
+			    				
+				<name type="alternate" sortindex="1" value="卡坦岛"/>
+			    				
+				<name type="alternate" sortindex="1" value="卡坦島"/>
+			    				
+				<name type="alternate" sortindex="1" value="카탄"/>
+			    				
+				<name type="alternate" sortindex="1" value="카탄: 보드게임의 제왕"/>
+			    				
+				<name type="alternate" sortindex="1" value="카탄의 개척자"/>
+			
+						               													<description>In CATAN (formerly The Settlers of Catan), players try to be the dominant force on the island of Catan by building settlements, cities and roads. On each turn dice are rolled to determine which resources the island produces. Players build structures by 'spending' resources (sheep, wheat, wood, brick and ore) which are represented by the relevant resource cards; each land type, with the exception of the unproductive desert, produces a specific resource: hills produce brick, forests produce wood, mountains produce ore, fields produce wheat, and pastures produce sheep.&amp;#10;&amp;#10;Set-up includes randomly placing large hexagonal tiles (each depicting one of the five resource-producing terrain types--or the desert) in a honeycomb shape and surrounding them with water tiles, some of which contain ports of exchange. A number disk, the value of which will correspond to the roll of two 6-sided dice, are placed on each terrain tile. Each player is given two settlements (think: houses) and roads (sticks) which are placed on intersections and borders of the terrain tiles. Players collect a hand of resource cards based on which terrain tiles their last-placed settlement is adjacent to. A robber pawn is placed on the desert tile.&amp;#10;&amp;#10;A turn consists of rolling the dice, collecting resource cards based on this dice roll and the position of settlements (or upgraded cities&amp;mdash;think: hotels), turning in resource cards (if possible and desired) for improvements, trading cards at a port, possibly playing a development card, or trading resource cards with other players. If the dice roll is a 7, the active player moves the robber to a new terrain tile and steals a resource card from another player who has a settlement adjacent to that tile.&amp;#10;&amp;#10;Points are accumulated by building settlements and cities, having the longest road or the largest army (from some of the development cards), and gathering certain development cards that simply award victory points. When a player has gathered 10 points (some of which may be held in secret), s/he announces this and claims the win.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1995"/>
+						               				<minplayers value="3"/>
+						               				<maxplayers value="4"/>
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2026">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1"/>
+					<result value="Recommended" numvotes="4"/>
+					<result value="Not Recommended" numvotes="1429"/>
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="14"/>
+					<result value="Recommended" numvotes="245"/>
+					<result value="Not Recommended" numvotes="1276"/>
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="683"/>
+					<result value="Recommended" numvotes="1078"/>
+					<result value="Not Recommended" numvotes="103"/>
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1441"/>
+					<result value="Recommended" numvotes="442"/>
+					<result value="Not Recommended" numvotes="44"/>
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="58"/>
+					<result value="Recommended" numvotes="191"/>
+					<result value="Not Recommended" numvotes="910"/>
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers" title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players"/>
+  <result name="recommmendedwith" value="Recommended with 3–4 players"/>
+</poll-summary> 			               				<playingtime value="120"/>
+						               				<minplaytime value="60"/>
+						               				<maxplaytime value="120"/>
+						               				<minage value="10"/>
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="562">
+			<results>		
+					<result value="2" numvotes="1"/>
+					<result value="3" numvotes="0"/>
+					<result value="4" numvotes="2"/>
+					<result value="5" numvotes="8"/>
+					<result value="6" numvotes="59"/>
+					<result value="8" numvotes="269"/>
+					<result value="10" numvotes="173"/>
+					<result value="12" numvotes="43"/>
+					<result value="14" numvotes="4"/>
+					<result value="16" numvotes="2"/>
+					<result value="18" numvotes="1"/>
+					<result value="21 and up" numvotes="0"/>
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="345">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="21"/>
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="293"/>
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="30"/>
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1"/>
+					<result level="5" value="Unplayable in another language" numvotes="0"/>
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1026" value="Negotiation"/>
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2956" value="Chaining"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2902" value="Income"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2915" value="Negotiation"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2876" value="Race"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2909" value="Random Production"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2008" value="Trading"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up"/>
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7481" value="Animals: Sheep"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="67874" value="Components: Hexagonal Tiles"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="106452" value="Components: HexHex3 Grids"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="68769" value="Components: Wooden pieces &amp; boards"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="77349" value="Digital Implementations: Steam"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3" value="Game: Catan"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="79690" value="Islands: Fictional"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="105030" value="Misc: Dice Tower Hall of Fame"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78198" value="Misc: Watch It Played How To Videos"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="11505" value="Promotional: Board Games"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="21622" value="Theme: Colonial"/>
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="167903" value="20 Jahre Darmstadt Spielt"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="178656" value="Brettspiel Adventskalender 2015"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="26352" value="Catan Austria / Wien meets Catan"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="432107" value="Catan Cenários: Portugal"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="86008" value="Catan Geographies: Austria"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="60134" value="Catan Geographies: Bayern Edition"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="149857" value="Catan Geographies: Corsica"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="173651" value="Catan Geographies: Georgia"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="202788" value="Catan Geographies: Kennessee"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="131362" value="Catan Geographies: Mallorca"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="39093" value="Catan Geographies: North Rhine – Westphalia"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="187366" value="Catan Geographies: Rickshaw Run"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="32270" value="Catan Geographies: Settlers of Hesse"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="169486" value="Catan Geographies: The Carolinas"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="211081" value="Catan Länderszenarien: Polen"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="292851" value="Catan Rhein-Main-Neckar"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="259397" value="Catan Scenario: Crop Trust"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="222582" value="Catan Scenario: Durango"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="374983" value="Catan Scenario: Malta"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="189097" value="Catan Scenarios:  Easter Bunny"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="307518" value="Catan Scenarios: #WeStayHome"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="186395" value="Catan Scenarios: Big Game Big Honor"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="196928" value="Catan Scenarios: Catanimals"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="131958" value="Catan Scenarios: Frenemies"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="305516" value="Catan Scenarios: Global Warming"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="86669" value="Catan Scenarios: Helpers of Catan"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="110794" value="Catan Scenarios: Oil Springs"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="2807" value="Catan: 5-6 Player Extension"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="183139" value="Catan: 999 Games 25 jaar Expansion"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="104774" value="Catan: Catakatoa"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="176966" value="Catan: Catan Day 2015 Exclusive Expansion"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="926" value="CATAN: Cities &amp; Knights"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="4101" value="Catan: Cities &amp; Knights – 5-6 Player Extension"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="265141" value="Catan: Cities &amp; Knights – Legend of the Conquerors"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="73809" value="Catan: Delmarva"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="352073" value="Catan: Die Stoffräuber"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="20038" value="Catan: Event Cards"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="135378" value="Catan: Explorers &amp; Pirates"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="144419" value="Catan: Explorers &amp; Pirates – 5-6 Player Extension"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="238135" value="CATAN: Hawai'i Scenario"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="263939" value="Catan: High Priests of the Inkas"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="54528" value="Catan: Indiana &amp; Ohio"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="143249" value="Catan: New England"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="132481" value="Catan: New York"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="101942" value="Catan: Penn-Jersey"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="222396" value="Catan: Playmat Atoll"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="222394" value="Catan: Playmat Desert"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="222393" value="Catan: Playmat Gold"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="222395" value="Catan: Playmat Island"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="325" value="CATAN: Seafarers"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="4103" value="Catan: Seafarers – 5-6 Player Extension"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="223171" value="Catan: Seafarers Scenario – Legend of the Sea Robbers"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="217947" value="Catan: Seefahrer – 20 Jahre Jubiläums-Edition"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="381626" value="CATAN: Soccer Fever Scenario"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="271159" value="Catan: Szenario Der Kölner Dom"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="367791" value="CATAN: The Helpers"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="416257" value="CATAN: The Helpers – Leader of the Flock"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="27760" value="CATAN: Traders &amp; Barbarians"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="34691" value="Catan: Traders &amp; Barbarians – 5-6 Player Extension"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="56157" value="CATAN: Treasures, Dragons &amp; Adventurers"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="42147" value="Der Hafenmeister"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="128751" value="Heroes &amp; Capitols (fan expansion for Settlers of Catan)"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="91061" value="Hexen, Zauberer &amp; Drachen (fan expansion for Catan: Cities and Knights)"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="95940" value="Katani  pankur"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="89606" value="Kirche, Glaube &amp; Reformation (fan expansion for Catan: Cities and Knights)"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="21101" value="De Kolonisten van Catan: De Diamanten"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="41161" value="De Kolonisten van Catan: De drie Handelsteden van Noord-Nederland"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="21097" value="De Kolonisten van Catan: De Koloniën"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="21443" value="De Kolonisten van Catan: De Specialisten"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="21100" value="De Kolonisten van Catan: De Wereldwonderen"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="21098" value="De Kolonisten van Catan: De Woestijnruiters"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="21099" value="De Kolonisten van Catan: Het Grote Kanaal"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="144851" value="Mayfair Game Variants &amp; Mini-Expansions Set #1"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="167573" value="Mayfair Games' Limited Edition Promo Expansion Set #17"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="90100" value="Die Pioniere (fan expansion for The Settlers of Catan)"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="22598" value="Saggsen-Gadan: De säggs'schn Siedler / Catan-OFFENSIVE in Chemnitz"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="293222" value="Settlers of Catan Scenario: The Jungle"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="293224" value="Settlers of Catan Scenario: The Volcano"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="19343" value="The Settlers of Catan: The Fishermen of Catan"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="20247" value="The Settlers of Catan: The Great River"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="10817" value="Settlers of New Catan (and extra modules)"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="21046" value="Die Siedler von Catan: Atlantis – Szenarien &amp; Varianten"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="1137" value="Die Siedler von Catan: Das Buch zum Spielen"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="84977" value="Die Siedler von Catan: Der Schokoladenmarkt"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="26079" value="Die Siedler von Catan: Die große Karawane"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="167836" value="Die Siedler von Catan: Hispania Edition"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="306" value="Die Siedler von Catan: Historische Szenarien"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="1361" value="Die Siedler von Catan: Historische Szenarien II"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="167841" value="Die Siedler von Catan: Hochzeitsturm"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="31933" value="Die Siedler von Catan: Renaissance in der Steiermark &amp; Burgbau auf Chaffenberch"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="37690" value="Die Siedler von Catan: Rincewind und der Tourist  /  Die Gilden von Ankh-Morpork"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="111377" value="Die Siedler von Catan: Thüringen Edition"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="37969" value="Die Siedler von Luxemburg"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="399807" value="The Siege (fan expansion for Catan)"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="134277" value="World Wonders (fan expansion for Catan)"/>
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="399943" value="Catan x Goat Simulator 3: Resource Replacement Cards"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="273558" value="Catan: 3D Clay Pieces"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="280966" value="Catan: Autumn Catan Hexes"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="145942" value="Catan: Boards"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="140408" value="Catan: Cities &amp; Knights – Wooden Viking Pieces"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="306290" value="Catan: e-Raptor Insert"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="173657" value="Catan: Explorers &amp; Pirates – Wooden Viking Pieces"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="399098" value="CATAN: Family Promo Card"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="365835" value="Catan: Hexadocks Base Set"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="365837" value="Catan: Hexadocks Extension Set"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="365755" value="Catan: Hexatower"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="346990" value="Catan: Laserox Organizer"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="243110" value="Catan: Pewter Player Pieces"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="273551" value="Catan: Resource Token Set"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="273549" value="Catan: Robber Token"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="140409" value="Catan: Seafarers – Wooden Viking Pieces"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="271278" value="Catan: Settlers Organizer"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="431245" value="Catan: Spring Catan Hexes"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="331315" value="Catan: Summer Catan Hexes"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="139876" value="Catan: Table of Catan"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="273592" value="Catan: Tower Rex Card Holder"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="365838" value="Catan: Trading Post Convertible Card Tray"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="273557" value="Catan: Trading Ship Figurines"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="360479" value="Catan: Treasures, Dragons &amp; Adventurers – Wooden Pieces"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="182444" value="Catan: Wooden Pieces Basic Set (4-Players)"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="182448" value="Catan: Wooden Pieces for 5-6 Players"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="140406" value="Catan: Wooden Viking Pieces (Basic and Expansion)"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="140407" value="Catan: Wooden Viking Pieces (Basic Only)"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="141863" value="Catan: Yucatan Adventure Board"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="140260" value="Catan: Yucatan Wooden Token Set (125 Tokens)"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="140259" value="Catan: Yucatan Wooden Token Set (95 Pack)"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="393266" value="Catan: ZV3DCreations Insert"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="20890" value="Im Zeichen des Sechsecks: Klaus Teuber &amp; Die Siedler von Catan"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="192180" value="De Kolonisten Van Catan: Dobbelbeker"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="139613" value="The Settlers of Catan: Building Costs Coasters"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="140404" value="The Settlers of Catan: Game Cards"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="138407" value="Settlers of Catan: Pre-2007 Adapter Kit"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="139612" value="The Settlers of Catan: Robber Trio"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="425760" value="Settlers of Catan: Three Sea Studios Magnetic Hex Tiles"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="193277" value="Die Siedler von Catan: Club-Paket"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="151252" value="Die Siedler von Catan: Der Catanische Rat"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="369439" value="Die Siedler von Catan: Kompatibilitäts-Kit"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="17419" value="CATAN 3D Collector's Edition"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="298278" value="Catan: 25 Jahre Jubiläums-Edition"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="305668" value="Catan: 25th Anniversary Edition"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="338697" value="CATAN: 3D Edition"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="182880" value="Catan: Big Box"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="191710" value="Catan: Big Box"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="269980" value="Catan: Big Box"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="394723" value="CATAN: Big Box"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="265030" value="Catan: Big Box Jubileumeditie"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="152959" value="The Settlers of Catan"/>
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="123386" value="Baden-Württemberg Catan"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="38749" value="Catan Geographies: Germany"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="103091" value="Catan Histories: Merchants of Europe"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="244144" value="Catan Histories: Rise of the Inkas"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="67239" value="Catan Histories: Settlers of America – Trails to Rails"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="25234" value="Catan Histories: Struggle for Rome"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="161527" value="Catan: Ancient Egypt"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="194097" value="Catan: Big Game Event Kit"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="284815" value="Catan: Core + China Map"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="147240" value="Catan: Family Edition"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="408727" value="CATAN: New Energies"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="3972" value="Catan: Portable Edition"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="282853" value="CATAN: Starfarers"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="172994" value="Catan: Traveler – Compact Edition"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="13831" value="The Communication in Catan"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="229218" value="A Game of Thrones: Catan – Brotherhood of the Watch"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="5824" value="The Kids of Catan"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="52825" value="De Kolonisten van de Lage Landen"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="3655" value="The Settlers of Canaan"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="38821" value="Settlers of Catan: Gallery Edition"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="20899" value="Settlers of Catan: Rockman Edition"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="4394" value="The Settlers of the Stone Age"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="6778" value="The Settlers of Zarahemla"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="27766" value="Die Siedler von Catan: Junior"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="189" value="Die Siedler von Nürnberg"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="24511" value="Simply Catan"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="117985" value="Star Trek: Catan"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="1897" value="The Starfarers of Catan"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="5549" value="Das Wasser des Lebens"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="144418" value="Wien Catan"/>
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11" value="Klaus Teuber"/>
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12036" value="Volkan Baga"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12382" value="Tanja Donner"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="13034" value="Pete Fenlon"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="5442" value="Jason Hawkins"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="26874" value="Michaela Kienle"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="133362" value="Andreas Klober"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="4959" value="Harald Lieske"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11825" value="Michael Menzel"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="24191" value="Marion Pott"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11898" value="Andreas Resch"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="25612" value="Matt Schwabel"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11883" value="Franz Vohwinkel"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12063" value="Stephen Graham Walsh"/>
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37" value="KOSMOS"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4304" value="Albi"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="157" value="Asmodee"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7340" value="Astrel Games"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51066" value="BGA Plus"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7162" value="Brain Games"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9068" value="Broadway Toys LTD"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4358" value="Capcom Co., Ltd."/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="31418" value="Catan Studio"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4335" value="Competo / Marektoy"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="496" value="danspil"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="41" value="Descartes Editeur"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26990" value="Dexy Co"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6784" value="Enigma (Bergsala Enigma)"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="116" value="Eurogames"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5657" value="Filosofia Éditions"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4617" value="Galakta"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5530" value="Giochi Uniti"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21640" value="GP Games"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="858" value="Grow Jogos e Brinquedos"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23382" value="HaKubia"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4417" value="Hanayama"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8822" value="Ideal Board Games"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="31372" value="Igroljub"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29036" value="IntelliGames.BG"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5020" value="Ísöld ehf."/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6214" value="Kaissa Chess &amp; Games"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2654" value="L&amp;M Games"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5597" value="Laser plus"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3218" value="Lautapelit.fi"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3533" value="Logojogos"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10" value="Mayfair Games"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51614" value="MIPL"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="32395" value="NeoTroy Games"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24886" value="Ninive Games"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2528" value="Paper Iyagi"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22" value="Piatnik"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8313" value="Smart Ltd"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44204" value="Spilbræt.dk"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9235" value="Stupor Mundi"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="48279" value="SuperHeated Neurons"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9234" value="Swan Panasia Co., Ltd."/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42" value="Tilsit"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18477" value="Top Toys"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="13481" value="TRY SOFT"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="14078" value="Vennerød Forlag AS"/>
+		
+									
+			
+
+			
+	
+
+	
+
+	
+		<comments page="1" totalitems="22417">
+			<comment username="-Johnny-" rating="7" value="It has a good, quick pace, and works well with three players. Too much luck, not enough strategy though. The best part of the game is picking your initial settlements.  ---- (bought)"/>
+			<comment username="-xXx-" rating="5" value="Too much luck.  A bit too simple to spark interest."/>
+			<comment username="0Felippe0" rating="N/A" value="na stanie"/>
+			<comment username="1 Family Meeple" rating="6" value="BASE GAME:  Settlers of Catan (4th edition) 2007  SLEEVED[IMG]https://cf.geekdo-static.com/mbs/mb_5855_0.gif[/IMG] *Expansions are NOT sleeved yet  OWN EXPANSION(s): EXPANSION: 5-6 Player Base Game EXPANSION:  Cites &amp; Knights (in Base Box) 1-4p EXPANSION:  Explorers and Pirates (in it's own Box) 1-4p EXPANSION:  Seafarers 1-4p EXPANSION:  Traders &amp; Barbarians (in Seafarers Box) 1-4 P  MINi EXPANSIONS /PROMO:  Catan:  Event Cards (2005) CWC Berlin 2014 Special (2 tiles &amp; The &quot;Berlin Bear&quot;) Catan: Catan Day 2015 Exclusive Expansion (2015) Catan Scenarios: Helpers of Catan (2010) Catan Scenarios: Santa Claus (2015) Catan Geographies: Georgia  EXTRA:  Catan: Board (2-6 size) &amp; handmade Card Holder EXTRAS In Custom Box: 45 Plastic Magnetic Hex tile holders Viking Themed Player Set for 6 players (boats for 1-4 in game) Extra BOATS 1-4 players from original set Cities and Knights ALL Wooden Player Set for 6 players 30 dark blue sea tiles with plain backs 12 plain colored hex tiles 36 wooden golden #1 peices 1 extra black robber, 1 extra black boat, 1 grey, 3 golden rood/house, 5 fire tokens, 5 ship tokens and 1 white disc"/>
+			<comment username="1000days" rating="6" value="I was too young and/or too ignorant to get into this game when it first became all the rage in the mid-nineties. And when I finally got to play it, I just didn't care all that much about it - maybe it's because of the other, more refined games I'd learned to enjoy by then."/>
+			<comment username="1000rpm" rating="7" value="Bizarrely, my copy of this game, which I have had for over a year, is unplayed.  Instead I've played on other people's sets at a local gaming club.  Despite being quite a good player I have failed to ever win at this, and it is a source of personal frustration. Okay, its got a large random factor with the dice and a popularity/shouting factor with the trading and the cards throw an extra random element into the mix, but I should win sometime, surely....?"/>
+			<comment username="100pcBlade" rating="8" value="I would originally have rated this as a 9 but I'm bored with it now even with the numerous scenarios around. If the game lasts under an hour it's fine but you get the occassional one that just drags. However, I still think it's the perfect gateway game and will always select it when introducing newbies. I always preferred the Seafarers version but am quite happy with just the base game now. Cities &amp; Knights tries to make the game something that it's not. Das Buch has some interesting scenarios though."/>
+			<comment username="1024b" rating="8.25" value="Отсутствует одна карточка МОНОПОЛИЯ."/>
+			<comment username="1234567" rating="7" value="Great when everyone is trading and manipulating each other for everything"/>
+			<comment username="12thManStanding" rating="6" value="Haven't played this one in years, and haven't played it since getting back into gaming."/>
+			<comment username="143245" rating="3" value="I don't have any visceral hate for the game, I just wish it didn't take as long to play. One thing in particular that I dislike is similar to Terra Mystica; the critical decisions are all front loaded in the game (settlement placements and early expansion), and there is a permanence in the area/point controls. Catan just takes less time is the upside."/>
+			<comment username="144creations" rating="3" value="Perhaps I just over-played this one in its prime. Mostly, I just don't like games that take an hour and a half to play but you can often tell who's going to win in the first 30 minutes (or at least who is going to lose... but they're still stuck playing). "/>
+			<comment username="14cross" rating="7" value="I like the game but the only problem I have with it is there is a lot of luck involved with the die role. Don't get me wrong, I like some luck in my games. But this one requires too much luck in order to win. For example, I played my 13 year old daughter and son and we all kept rolling 9s all of the time, which gave my daughter tons of resources. She clobbered us, getting 10 points before my son and I got to five points. I bought this game expecting a lot more strategy and was dissapointed.  Edit: I have played this a few more times and, while I still don't see a ton of strategy in this game, I am seeing more possibilities. I think the expansions will probably go a long way toward increasing replayability. I increased the rating from a 7 to a 8.  Edit 2: I got Cities and Knights and it makes this game a solid 9 for me. We're having a lot of fun with it!"/>
+			<comment username="16note" rating="7" value="Rachel's half"/>
+			<comment username="1amgreg77" rating="8.7" value="One of my favorite 4 player games.  A fine mix of luck and strategy.  You feel like you have quite a few options each turn and trading is awesome.  Great replay value.  Once you get comfortable with the game, I would recommend the cities and knights expansion. "/>
+			<comment username="1awesomeguy" rating="5" value="Takes WAY too long for what it is."/>
+			<comment username="1hooman" rating="N/A" value="Box says original title &quot;The Settlers of Catan&quot;"/>
+			<comment username="1in36" rating="6" value="I feel it is far too complicated to be suggested as a gateway game. Ticket to ride and Carcassonne both are easier to introduce.  Major strategy elements are decided in the first few minutes of play, making it incredibly unforgiving to newcomers."/>
+			<comment username="1Mmirg" rating="7" value="Played heavily before I began tracking plays"/>
+			<comment username="1ndiana" rating="7" value="An extremely simple and enjoyable game; but not quite as deep as those I usually enjoy."/>
+			<comment username="1nf1n1ty" rating="8" value="My gateway game. It will always hold a special spot for me for that! "/>
+			<comment username="1point21gigawatts" rating="6" value="We were late to the game in playing Settlers and had already worked through Dominion and Carcassonne dozens of times before this one hit the table. We've played it once or twice, but with so many other great, and newer, games in our collection, there is no reason to ever play it. Still, it is one of the new classics."/>
+			<comment username="1x0r" rating="7" value="Location: MSK"/>
+			<comment username="200404" rating="10" value="Uncommentable... "/>
+			<comment username="20171005" rating="5" value="Highly luck depended. Even if you have a good position you may get slight resources because of a bandit or unstable dice rolls. The biggest problem is once you go down, you can never go up."/>
+			<comment username="21n6y" rating="5" value="#GeekSort-Exclude"/>
+			<comment username="2570april" rating="N/A" value="Like new, opened, never played"/>
+			<comment username="2d20" rating="7" value="Finally thrifted a complete 3rd edition in great shape!"/>
+			<comment username="2goofy" rating="7.4" value="Cities &amp; Knights Explorers &amp; Pirates Seafarers Traders &amp; Barbarians"/>
+			<comment username="2ndPlace" rating="8" value="Great game but not for me.  I don't want to beg the other player for a log or some wool."/>
+			<comment username="2ombie" rating="8" value="iOS version"/>
+			<comment username="3 Nails" rating="7" value="I don't understand why everyone seems to like this game so much. It's made of good quality materials but the gameplay for me is just...bleh.  I play it quite a bit however because it's one of the few games I can get my whole family to play."/>
+			<comment username="31rhcp" rating="9" value="A simple game that is different every time you play due to the random board and the people you are playing with."/>
+			<comment username="360_Piranha" rating="7" value="Often the door in the board game world..."/>
+			<comment username="3davoli" rating="7" value="Plays and dates estimated."/>
+			<comment username="3dicebombers" rating="4" value="While I appreciate its significance as a gateway game, I do not like how bad you can get screwed thanks to dicerolls.  I also do not like the relative value of some of the starting town positions versus others.  I hope that Anno 1701 gets printed in the US, to supplant Settlers as the gateway Catan game."/>
+			<comment username="3kindsofsalt" rating="10" value="A gold standard for game balance, replayability, and pacing."/>
+			<comment username="3sapphires" rating="10" value="3,4 p"/>
+			<comment username="414448" rating="5" value="Not bad, but would not play it when there are other games around."/>
+			<comment username="47029" rating="8" value="Excellent game to introduce new players to board games, especially because they might win (it happened in my last two games), but also because the rules are simple and fast to learn. Although I like it, it's too luck driven. If the dice don't like you, you won't stand a chance."/>
+			<comment username="49xjohn" rating="9.4" value="I love this game! It is near perfect. It plays well with 3, but really seems like a game for 2 couples. When we have 4 to play, it's Settlers at my house!"/>
+			<comment username="4characters" rating="6" value="The metagame possibilities make this title great. If played properly with table talk, side deals, alliances, i.e. nothing explicitly stated in the rules, then this game really shines. In this style I'd rate it at an 8 or even 9 perhaps. On the other hand, if played strictly as a eurogame (which seems to be the majority of the time) it is merely okay in my opinion, I'd rate it at a 5."/>
+			<comment username="4Corners" rating="7" value="The game's a masterpiece, even though I hate the dice rolling.  The game that turned me on to German/designer games, as well as all of my friends.  Don't play it much anymore, but it's definitely earned a permanent place in my all time top 10.  Own the [boardgame=926]Cities &amp; Knights[/boardgame], [boardgame=27760]Traders &amp; Barbarians[/boardgame], [boardgame=135378]Explorers &amp; Pirates[/boardgame], [boardgame=325]Seafarers[/boardgame] and [boardgame=86669]Helpers[/boardgame] expansions, as well as the [boardgame=189097]Santa Claus[/boardgame], [boardgame=131958]Frenemies[/boardgame], [boardgame=110794]Oil Springs[/boardgame], [boardgame=86669]Helpers of Catan[/boardgame] scenarios, and the [boardgame=167841]Wedding Tower[/boardgame] promo."/>
+			<comment username="4ndrewcol3" rating="4" value="One of my first strategy board games.  Loved it until I started discovering everything else out there."/>
+			<comment username="4ndrz" rating="8" value="You play Catan with your friends. Everyone trades resources. It's great."/>
+			<comment username="4theta" rating="7" value="[thing=325]Seafarers[/thing] [thing=926]Cities &amp; Knights[/thing] [thing=27760]Traders &amp; Barbarians[/thing] [thing=135378]Explorers &amp; Pirates[/thing] [thing=1137]Das Buch zum Spielen[/thing] [c][size=4]   [/size][/c] [thing=86669]Helpers of Catan[/thing] [thing=110794]Oil Springs[/thing] [thing=131958]Frenemies[/thing] [c][size=4]   [/size][/c] [thing=143249]New England Map[/thing]  [size=7][thing=2807]Catan – 5-6 Player[/thing] [thing=4103]Seafarers – 5-6 Player[/thing] [thing=4101]Cities &amp; Knights – 5-6 Player[/thing] [thing=34691]Traders &amp; Barbarians – 5-6 Player[/thing] [thing=144419]Explorers &amp; Pirates – 5-6 Player[/thing][/size]"/>
+			<comment username="4wallz" rating="7" value="I used to think this game was the greatest thing ever.  But now I'm not too sure.  Too random and luck based.  I prefer my board games &quot;German&quot;.  As in no luck involved.   Still a good game to introduce non gamers to a world of games out there that are a whole bunch of a lot better than Monopoly!  For that it absolutly rocks!"/>
+			<comment username="5th Beatles" rating="4" value="Reviewed on my blog."/>
+			<comment username="5thian" rating="10" value="Any game that has win-win negotiating as the mechanic is ok by me "/>
+			<comment username="5truikr0ver" rating="6.5" value="We never play the base version any more, but it's a nice intro to the hobby, I guess"/>
+			<comment username="67 Protons" rating="6" value="2-4 Players"/>
+			<comment username="6EQUJ5" rating="6" value="Unrecorded plays ~ 10"/>
+			<comment username="70 Shilling" rating="N/A" value="B&amp;K"/>
+			<comment username="711bgg" rating="6" value="not a bad game, always plays too long with larger group, and there are just other more fun games to play"/>
+			<comment username="75dragon" rating="6" value="Classic"/>
+			<comment username="7Bros" rating="N/A" value="DEVIR Portuguese edition"/>
+			<comment username="7hsgameclub" rating="N/A" value="Notes from the perspective of a Middle School Game Club:  The length maxes out the club, but it is a solid choice. Gets a little boring for some students."/>
+			<comment username="7ofAnn" rating="7" value="A little bit too simple without add-ons."/>
+			<comment username="7roy" rating="N/A" value="3–6 Players (Best: 4)  Playing Time: 90–150 Min"/>
+			<comment username="7ur1n" rating="N/A" value="3-4"/>
+			<comment username="807johnilkka" rating="7" value="The gateway game to modern board gaming. Harvest, trade , expand. One downside to the game is there is no combat system. A price laid is where a price stays. Still a legend of a game, but does get grown out of."/>
+			<comment username="80sGirl" rating="10" value="Purple metallic robber and metallic dice set from FanRoll - stored in base game  Replacement black pawn robber - stored in base game  Own 2 copies of 3rd edition.  Also have a Settlers wooden game board, 1 set of 4th edition replacement cards and 2 longest turn (negative victory point) cards."/>
+			<comment username="8eagle" rating="5" value="Bueno y sencillo"/>
+			<comment username="8odoros" rating="7" value="Classic! These hexes are so cute!"/>
+			<comment username="8one6" rating="8" value="This is the gateway game. I'm almost always willing to play."/>
+			<comment username="8tlas" rating="8" value="A game best served with inebriants for maximum 'Got wood?' value. "/>
+			<comment username="95after5" rating="10" value="Nice game for family and friends, base building and trading and possible twists in ending score"/>
+			<comment username="9snick4" rating="7" value="Oldie goldie, we don't like the dice dependency, but we really enjoy the game"/>
+			<comment username="A Haar" rating="4" value="Not a huge Catan fan, but it's a newcomer's favorite so I had to add it to my collection."/>
+			<comment username="A Strange Aeon" rating="10" value="If I'm going to play a Euro, it should be exciting, and Settlers is certainly that.  The dice rolls really make the game--they let the drama of not getting what you need, of being forced to make new plans, rise up.  My only complaint is that you can be out of the game before your first turn if your initial set up isn't well thought out.  That is a huge barrier for new players versus experienced players, but the game seems to have done alright for itself.  Certainly worthy of its status, and I don't understand why it isn't ranked higher.  "/>
+			<comment username="A.Men" rating="8" value="IMO very easy and good game "/>
+			<comment username="a100000001" rating="N/A" value="played"/>
+			<comment username="a1cibiades" rating="4" value="I hid it somewhere."/>
+			<comment username="A1ucard" rating="7" value="Interactive with trading and the robber... but not strong mechanically. Too much depends on initial placement. But can be a fine game for non-hobby gamers."/>
+			<comment username="a2b2c517" rating="6.5" value="เกมแรกที่ทำให้เข้าวงการ หลังๆออกแนวเฉยๆที่จะเล่น แต่ถ้าให้ดีต้องใช้ event การ์ดเท่านั้น ไม่ค่อยชอบทอยเต๋าเท่าไรล่ะใช้แล้วหดหู่"/>
+			<comment username="aaarg_ink" rating="6" value="130929 The thrill of waiting to see the dice go your way gets a little old.  But no denying its thrilling, as well as hoping your opponent doesn't do something.  Maybe I like the tenseness of these games, but I don't like the source of the tenseness (the secretly hoping your opponent doesn't make a blocking play).  100808 Dice.  Otherwise fun and thrilling, but the dice part kinda drives me nuts..."/>
+			<comment username="AADA7A" rating="9" value="34"/>
+			<comment username="aadrian13" rating="8" value="My introduction to modern boardgames. "/>
+			<comment username="aaj94" rating="6" value="The trading and resource gathering is interesting -- and it was a trailblazer -- but for many people, there are more interesting games out there.  Look, Catan got me into gaming. I can't deny that I've loved and played it a lot. But Catan (especially with no expansions) just isn't interesting anymore. I have played it upwards of thirty times online against AIs, and as such I'm pretty much played out on the game. Diversify your hexes, go for largest army or longest road (whichever has less competition), and trade only as much as necessary. Spread out and diversify your resources early, then bulk up on cities mid-game. I don't know, strategies vary, but I just feel like I'm always playing Catan on rails. It feels solved.   So yes, Catan is a great gateway game. It's exciting for new players who've never played a German-style game before. But I don't need to buy the game, or its expansions -- there's no need to. I've got plenty of other games that scratch that itch, and while I'm happy to recommend it, there's no need for me to personally own it. "/>
+			<comment username="aalotr13" rating="6" value="I will only play Catan with certain groups"/>
+			<comment username="AandF" rating="N/A" value="2015 május"/>
+			<comment username="aandjso" rating="8" value="My first impression is: this is the best family game in 20 years and that's before I even knew about BGG! After my eyes have been opened wide by BGG, I would still say this' the best family game in 20 years (over the likes of Monopoly, Scrabble, Risk) but my attention was diverted to those of Puerto Rico, Twilight Imperium III, and Android... Thus I brought down my grading for Catan to 8 from 10 as I would like to try out the others first (and the BGG grading is based on willingness to play). But my impression remained the same for Catan: it's the best family game in 20 years!"/>
+			<comment username="aardball" rating="8.8" value="A great game for welcoming non-gamers to games. Simple, elegant game with excellent replayability, especially when you're incorporating the modularity of the Seafarers expansions."/>
+			<comment username="Aardvark" rating="6.5" value="Minority opinion:  I don&amp;#039;t like this as much as most people.  Glad it started the German game craze though."/>
+			<comment username="Aardvark Sam" rating="8" value="A classic.  "/>
+			<comment username="aaron444" rating="8" value="My first &quot;German style&quot; game and I love it.  Would love to play more, but need at least three people."/>
+			<comment username="AaronDrakin" rating="6" value="Personally I hate this game. Win or lose, I always feel like I had a bad time, either cause I stomped or got stomped. But occasionally you'll have that game where everyone rolls your numbers and you ride off into the sunset on a pile of bricks, wheat and sheep."/>
+			<comment username="AaronJH" rating="6" value="Catan is the first high end board game I played. It is a good, fun game, although it is a little dry."/>
+			<comment username="aaronph" rating="7" value="Simple euro with good interaction and planning aspects.  I enjoy playing this with my kids (ages 8 and 6)."/>
+			<comment username="aaronseeber" rating="7" value="A modern classic."/>
+			<comment username="AaronTheRed" rating="7" value="Very good game.  If you fall behind early, it can be very boring though."/>
+			<comment username="Aarontu" rating="10" value="This was my introduction to European games, and it still stands as one of the very best.  Short enough to get played often, but long enough to be satisfying.  Simple enough to teach casual gamers to play (and they like and understand it), but still a very engaging and fun game.  Has lots of decision making and player interaction, and requires a good mix of luck, strategy, and trading.  Loving civilization-type games, I really like the way this one plays.  Also, I made my own board, which makes it look awesome: www.boardgamegeek.com/image/152673"/>
+			<comment username="aaronyoungren" rating="N/A" value="Trade interest low."/>
+			<comment username="Aaron_Dangerman" rating="9" value="An all-time classic! One of the strategy games that led the board game industry to become what it is today."/>
+			<comment username="aautio" rating="2" value="One has to give credit for Catan for being a groundbraking game that paved the way for what modern boardgames are today. There is something appealing in the the theme, but games have evolved tremendously in the last decade and while groundbraking in the 90's, Catan simply falls short these days.  Simply put, I find Catan to be an awful game of dice-rolling randomness that takes way too long to boot. It looks nicer than Monopoly, but gameplay-wise the latter is better.. and that's saying a lot, since it's not much of a game either. As a family game Catan might be passable, but it creates so much frustration that I doubt it would be much fun.   Even the iPhone app is waste of money.. I would not play it unless I wanted to piss myself off on purpose. "/>
+			<comment username="AB Special" rating="8" value="This was my gateway game!  Settlers was the first Euro style game I ever played...really the first nontraditional game ever for me, and ever since I've become obsessed!  Still enjoy Settlers.  I took to the mechanic instantly and still love to play."/>
+			<comment username="ab999" rating="8" value="Love it - will still play at any time.  I love when a newbie to the hobby will gush about this &quot;great new game called Settlers of Catan...&quot;  Oh, let me open your eyes!  The gateway game.  If they don't like it, give it up and find a new friend, lol."/>
+			<comment username="AbacoBilbao" rating="N/A" value="[Estante 09] [m000156]"/>
+			<comment username="abaire" rating="7" value="German language edition, wooden pieces"/>
+			<comment username="Abanon" rating="7" value="The GOAT - as a seasoned gamer I find it drags on a bit, and the strategies are somewhat limited (roads, cards, cities).    However I'm always shocked at how well this goes as a gateway game, it seems to be just right in terms of complexity for people to pick it up, with enough randomness that nobody feels bad if they lose."/>
+		</comments>
+	
+	
+   
+	
+          
+</item>
+</items>
